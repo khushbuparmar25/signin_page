@@ -134,11 +134,11 @@ a{
   .img{
     padding-left:250px !important;
   } 
-  .google-container{
-    margin:0 0 0 30px !important;
+  .google-container{    
+    margin:0 0 0 5px !important;
   }
   .facebook-container{
-    margin:0 0 0 0 !important;
+    margin:0 0 0 5px !important;
   }
   .mobile-view2{
     display:none !important;
@@ -148,6 +148,7 @@ a{
     bottom:80px !important;
     left: 5vw !important;
   }
+  
 }
 
 
@@ -242,9 +243,6 @@ a{
   }
   .mobile-view2{
     display: flex !important;
-    /* position:fixed !important;
-    bottom:60px !important;
-    left: 30vw !important; */
   }
   .laptop-view{
     display:none !important;
